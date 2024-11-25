@@ -1,0 +1,73 @@
+What is JavaScript Language
+
+Usecase of JavaScript
+
+Language Features vs API's (HTML5 APIs)
+
+ECMAScript (ECMA)			HTML5 APIs (W3C)
+
+Client Side JS (HTML5) / Server Side JS (Node JS)
+
+ECMA 3 to 2020 (ECMA 2015 and above)
+
+Babel Compiler
+
+Webpack
+
+---------------------------------------
+
+DataTypes		Primitive & Object
+			Immutable & Mutable
+
+Create	Variables	var, let and const
+
+Scopes			Global, Function & Block
+
+______________________________________________________ Day 2
+
+Operators
+
+Type Conversion , parseInt(), parseFloat(), Number(), Boolean()
+
+Loops - for, for-in, for-of, while, do-while
+
+Statement if, if-else, if-else-if, switch
+
+Function Creation
+
+Function Parameters (Optional, Default Parameters, arguments, Rest Parameters)
+
+Spread Operator (Array)
+
+______________________________________________________ Day 3
+
+Rest and Spread
+Rest and Spread with Array and Objects
+Destructuring - Array & Object
+Pure & Impure Fn
+Fn Overloading
+IIFE
+Arrow Fn
+Fn as Callbacks
+Closure
+this (Context)
+Currying
+Create Objects
+
+______________________________________________________ Day 4
+
+Arrow with This
+Tag Template Literals
+New Methods on STring
+Collections - Array Methods
+Map. Set, WeakMap, WeakSet
+Modules
+Types
+Object
+Object Methods
+
+______________________________________________________ Day 5
+
+
+
+
